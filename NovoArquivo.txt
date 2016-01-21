@@ -1,3 +1,4 @@
 Arquivo de teste
 Mais um teste de permissao pelo git bash
 Mais um teste de permissao pelo github desktop
+Mais um teste pelo Git GUI
