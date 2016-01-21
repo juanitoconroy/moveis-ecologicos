@@ -1,1 +1,2 @@
 Arquivo de teste
+Mais um teste de permissao pelo git bash
